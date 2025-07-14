@@ -33,6 +33,11 @@ pnpm install
 pnpm run start
 ```
 
+## 📦 Related projects
+
+-   **[nebuline-frontend](https://github.com/lunatine-dev/nebuline-frontend)** – SvelteKit dashboard to manage bots
+-   **[nebuline-host](https://github.com/lunatine-dev/nebuline-host)** – Local client to connect your VRChat bots
+
 ## ⚠️ Disclaimer
 
 > ✨ `nebuline` is a socket relay & API gateway built purely for **personal use, entertainment, and educational purposes**.
